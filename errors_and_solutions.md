@@ -5,7 +5,7 @@
 If you get the following error: `ORA-65096: invalid common user or role name`
 when attempting to create a user in the database.
 ### Solution
-Then run the following code to
-alter your session `ALTER SESSION SET "_ORACLE_SCRIPT"=true;` and it will allow
+Run the following code to alter your session `ALTER SESSION SET
+"_ORACLE_SCRIPT"=true;` and it will allow
 you to run the code to create the user without getting an error.
 [Link to Solution](https://www.youtube.com/watch?v=LkNbjAXkOWg)
