@@ -10,3 +10,8 @@ keep searching your answer is out there.
 - [ ] Do a write up on "New Row identification method". Minus or NOT Exists
 included in wherescape red.
 - [ ] Processing method, Insert/Update vs. Merge also included in Wherescape red
+
+
+# References
+* [Github Forking Help](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+This explains when to use the master or development branch.
