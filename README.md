@@ -15,3 +15,9 @@ included in wherescape red.
 # References
 * [Github Forking Help](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
 This explains when to use the master or development branch.
+* SQL Style Guides
+    * [Gitlab SQL Style Guide](https://about.gitlab.com/handbook/business-ops/data-team/sql-style-guide/)
+    * [SQL Style Guide](https://www.sqlstyle.guide/)
+    * [Kickstarter SQL Style Guide](https://gist.github.com/fredbenenson/7bb92718e19138c20591)
+    * [Oracle SQL and PL/SQL Coding Guidelines](https://bitbucket.org/databaseline/docs/src/master/oracle/guidelines.md)
+* [Unit Testing PL/SQL Code](https://databaseline.tech/unit-testing-plsql-code/)
